@@ -1,5 +1,5 @@
 {
-  "name": "learnstorybook-design-system-template",
+  "name": "@shahnawaz/learnstorybook-design-system-template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -69,8 +69,21 @@
     "@storybook/node-logger": "^6.2.8",
     "@storybook/preset-create-react-app": "^3.1.7",
     "@storybook/react": "^6.2.8",
+    "auto": "^10.25.1",
     "chromatic": "^5.6.2",
     "cross-env": "^7.0.3",
     "prettier": "^2.2.1"
-  }
+  },
+  "description": "The Storybook design system tutorial is a subset of the full [Storybook design system](https://github.com/storybookjs/design-system/), created as a learning resource for those interested in learning how to write and publish a design system using best in practice techniques.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahnawaz/learnstorybook-design-system.git"
+  },
+  "author": "Shahnawaz Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahnawaz/learnstorybook-design-system/issues"
+  },
+  "homepage": "https://github.com/shahnawaz/learnstorybook-design-system#readme"
 }
