@@ -24,3 +24,6 @@ yarn-error.log*
 
 # IDE
 .idea
+
+# story build logs
+build-storybook.log
